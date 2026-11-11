@@ -1,0 +1,10 @@
+## Title: Mouseover Tooltip
+
+## Interface: 110207, 120000, 120001, 120007, 16001
+
+## Notes: An addon which places the tooltip anchor on the cursor
+Mouseover Tooltip.lua
+
+## Author: GMToast
+
+## Version: 1.0.1
